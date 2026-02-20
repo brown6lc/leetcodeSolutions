@@ -1,4 +1,4 @@
-class Solutions:
+class SolutionsEasy:
 
     # palindrome checker
     def isPalindrome(self, x: int) -> bool:
@@ -60,5 +60,6 @@ class Solutions:
                     high = mid - 1
     
             return low
+
 
 
